@@ -1,0 +1,15 @@
+{
+  "name": "le2-devfull",
+  "version": "1.0.0",
+  "main": "LE2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
